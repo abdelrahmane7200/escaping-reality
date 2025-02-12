@@ -1,3 +1,3 @@
 # escaping-reality
 
-<a href="start.html">Press here to Begin</a>
+<a href="start/start.html">Press here to Begin</a>
